@@ -1,0 +1,21 @@
+{
+  "name": "A Cotswold Garden Companion",
+  "tagline": "Discover the gardens of the Cotswolds",
+  "description": "An illustrated companion to the most beautiful gardens, nurseries, and green spaces across the Cotswolds — from Chipping Campden to Bradford on Avon. Published March 2022.",
+  "longDescription": "Journey through the rolling hills and honey-stone villages of the Cotswolds with this illustrated garden companion. Covering approximately 800 square miles, it features 55+ gardens including Jacobean estates, English landscape movement classics, William Morris-inspired gardens, contemporary designs, and specialist plant nurseries.",
+  "price": 8.5,
+  "available": true,
+  "image": "/finch/images/cotswold-companion.jpg",
+  "dimensions": "594 × 420mm",
+  "buyUrl": "https://www.finchpublishing.co.uk/shop",
+  "writer": "Natasha Goodfellow",
+  "writerBio": "Natasha contributes to Gardens Illustrated, Elle Decoration UK, and Country Life.",
+  "illustrator": "Jo Parry",
+  "illustratorBio": "Jo Parry works across publishing, art, and children's books with clients including RNLI, BBC, and Quarto.",
+  "specs": [
+    "Beautifully illustrated folded map in slip case",
+    "55+ gardens and nurseries",
+    "Produced in the UK to ISO14001 environmental standards",
+    "Vegetable-based inks on FSC-accredited paper"
+  ]
+}
