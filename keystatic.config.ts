@@ -8,6 +8,7 @@ export default config({
   },
   ui: {
     brand: { name: 'Finch Publishing' },
+    basePath: '/finch/keystatic',
   },
   collections: {
     products: collection({
